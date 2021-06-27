@@ -1,0 +1,34 @@
+:root {
+  --main-bg-color: 40, 40, 40;
+  --secondary-bg-color: 206, 65, 43;
+
+  --main-btn-color: 99, 122, 60;
+
+  --main-tx-color: 233, 219, 209;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4rem;
+  background: #EEEEEE;
+}
+
+.design {
+  width: 100%;
+  height: 100%;
+  background: white;
+}
+
